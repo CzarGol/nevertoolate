@@ -1,0 +1,11 @@
+body{
+    background-color: black;
+}
+
+#travelbox {
+    flex-wrap: wrap;
+}
+
+.card {
+    padding: 30px;
+}
